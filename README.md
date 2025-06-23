@@ -62,4 +62,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  21.06.2025 08:47:08 link is live and clickable
+
+
+Update: Hey everyone, the broken link has been fixed.
