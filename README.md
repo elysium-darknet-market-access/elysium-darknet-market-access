@@ -64,4 +64,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update: Hey everyone, the broken link has been fixed.
+
+
+Update:  24 June
