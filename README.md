@@ -74,4 +74,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update: Fixed unreachable url
+
+
+Update:  18.07.2025 14:52:02 Dashboard URLs
